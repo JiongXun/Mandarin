@@ -44,7 +44,7 @@
 |ㄥ|eng|
 |ㄦ|er|
 
-영어 발음이 여기에서 더 잘 들기 : https://translate.google.com/#view=home&op=translate&sl=zh-CN&tl=ko&text=%E3%84%91
+영어 발음이 여기에서 더 좋습니다 : https://translate.google.com/#view=home&op=translate&sl=zh-CN&tl=ko&text=%E3%84%91
 
 ****
 
