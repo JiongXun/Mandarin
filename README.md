@@ -40,7 +40,7 @@
 |ㄣ|ㅡ+ㄴ|
 |ㄤ|ang|羊(ㄧㄤˊ)양 ,ㄤ = 받침ㅇ|
 |ㄥ|eng|미친 의 친 = [ㄑ,ㄧ,ㄥˋ] , [ㄑ,ㅣ,eng] ,ㄥ = 받침ㄴ|
-|ㄦ|er|
+|ㄦ|er|Faker , Maker , er|
 
 영어 발음이 여기에서 더 좋습니다 : https://translate.google.com/#view=home&op=translate&sl=zh-CN&tl=ko&text=%E3%84%91
 
