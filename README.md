@@ -52,6 +52,8 @@
 
 중국어 => 알파벳 변환기 : https://app.intcome.com/public/jy
 
+알파벳 발음: https://www.mdnkids.com/BoPoMo/
+
 ****
 
 ## 發聲(ㄈㄚ ㄕㄥ)(어조)
