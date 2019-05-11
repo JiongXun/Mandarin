@@ -70,4 +70,4 @@
 
 일반적으로 세로 쓰기
 
-![][foryou](/img/ex1.png)
+![][你好嗎](https://github.com/JiongXun/Mandarin/blob/lession1/img/ex1.png "你好嗎")
